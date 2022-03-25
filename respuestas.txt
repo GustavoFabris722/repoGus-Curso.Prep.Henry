@@ -15,6 +15,12 @@ que es una palabra reservada palabraretornar un valor
 u operacion. siempre al final de la funcion.
 
 Declaraciones if:
+son condicionales evaluan el codigo y cumplen un codigo
+u otro segun las datos obtenidos
+
+Valores booleanos:
+son retornos verdaderos o falsos
+segun el caso.
 
 
 
