@@ -1,0 +1,20 @@
+Respuestas de mias de Variables
+son espacios de almacenamientos
+que se declara con una palabra reservada y 
+una palabra de ayuda y tambien se hace una asignacion, si 
+se quiere en ese momento.
+ejemplo, var numero = 78;
+
+Strings: 
+Son palabras que se ejecuta
+solo como texto. pueden tambien guardarse en una variable.
+con su nombre.
+
+Funciones: bueno el ejemplo "return" seria
+que es una palabra reservada palabraretornar un valor
+u operacion. siempre al final de la funcion.
+
+Declaraciones if:
+
+
+
