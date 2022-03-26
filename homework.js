@@ -42,7 +42,7 @@ function suma(x, y) {
   
   
 }
-suma(8, 9)
+suma(8, 9);
 
 
 function resta(x, y) {
@@ -54,7 +54,7 @@ function resta(x, y) {
   
   
 }
-resta(11, 9)
+resta(11, 9);
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
