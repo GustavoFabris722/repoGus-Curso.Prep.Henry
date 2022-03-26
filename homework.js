@@ -54,7 +54,7 @@ function resta(x, y) {
   
   
 }
-resta(8, 9)
+resta(11, 9)
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
