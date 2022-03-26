@@ -48,8 +48,13 @@ suma(8, 9)
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  return x - y;
+ let res = x + y;
+  return res;
+  
+  
+  
 }
+resta(8, 9)
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
