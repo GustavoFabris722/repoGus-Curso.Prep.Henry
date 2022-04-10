@@ -11,8 +11,7 @@ solo como texto. pueden tambien guardarse en una variable.
 con su nombre.
 
 Funciones: bueno el ejemplo "return" seria
-que es una palabra reservada palabraretornar un valor
-u operacion. siempre al final de la funcion.
+que es una palabra reservada palabra para retornar un valor.tambien es una forma de culminar con los codigos.
 
 Declaraciones if:
 son condicionales evaluan el codigo y cumplen un codigo
